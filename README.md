@@ -5,8 +5,8 @@ Pre-work - *Memory Game*
 Submitted by: Dachanelle Anderson
 
 Time spent: **3hours, 2 minutes** hours spent in total
-
-Link to project: (insert your link here, should start with https://glitch.com...)
+https://glitch.com/git/sheer-tide-guan)
+(https://d1469b96-dde1-4210-80e4-2bdcf5896ee2@api.glitch.com/git/sheer-tide-guan)
 
 ## Required Functionality
 
